@@ -1,0 +1,48 @@
+@import url('build/css/_variables.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "Cabinet Grotesk";
+}
+
+body {
+    background: var(--demo-background-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+.video-container {
+    max-width: 500px;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+/* text styles */
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 3.6rem;
+}
+
+.tagline {
+    color: var(--demo-font-accent);
+    font-family: var(--font-family-font-family-default, "Cabinet Grotesk");
+    font-size: var(--demo-font-size-small);
+    font-style: normal;
+    font-weight: var(--demo-font-weight-default);
+    line-height: normal;
+}
+
+.title {
+    color: var( --demo-font-default);
+    font-family: var(--font-family-font-family-default, "Cabinet Grotesk");
+    font-size: var(--demo-font-size-large);
+    font-style: normal;
+    font-weight: var(--demo-font-weight-default);
+    line-height: normal;
+}
