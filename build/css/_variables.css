@@ -1,15 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 May 2024 09:02:00 GMT
+ * Generated on Thu, 30 May 2024 09:31:57 GMT
  */
 
 :root {
   --demo-font-weight-default: Regular;
   --demo-font-size-large: 90px;
   --demo-font-size-small: 48px;
-  --demo-font-accent: #dd3e16;
+  --demo-font-accent: #0000ff;
   --demo-test: #fff;
-  --demo-font-default: #ffffff;
-  --demo-background-color: #000000;
+  --demo-font-default: #fff;
+  --demo-background-color: #000;
   --demo-font-family: Cabinet Grotestk;
 }
