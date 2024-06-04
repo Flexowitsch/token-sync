@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 31 May 2024 11:56:27 GMT
+// Generated on Tue, 04 Jun 2024 06:43:19 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
     public static let demoBackgroundColor = #F0F0F8
-    public static let demoFontAccent = #0000ff
+    public static let demoFontAccent = #866CEE
     public static let demoFontDefault = #211A38
     public static let demoFontFamily = Cabinet Grotesk
     public static let demoFontSizeLarge = 90px

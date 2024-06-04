@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 31 May 2024 11:56:27 GMT
+// Generated on Tue, 04 Jun 2024 06:43:19 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
     internal static let demoBackgroundColor = #F0F0F8
-    internal static let demoFontAccent = #0000ff
+    internal static let demoFontAccent = #866CEE
     internal static let demoFontDefault = #211A38
     internal static let demoFontFamily = Cabinet Grotesk
     internal static let demoFontSizeLarge = 90px
